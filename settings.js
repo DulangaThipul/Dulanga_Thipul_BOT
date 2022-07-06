@@ -22,20 +22,20 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+940770696682'] //Owner number in aive msg
+global.premium = ['+940770696682'] //Owner Number info
+global.ownernomer = '+940770696682' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = '☬Dulanga༒Thipul࿐' //Owner Name
+global.botname = ' ☬Dulanga༒Thipul࿐' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '🤭Follow me📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://www.tiktok.com/@_square_enix_/video/7116164889688673562?is_from_webapp=1&sender_device=pc&web_id=7103490346214639105' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬Dulanga༒Thipul࿐' //Bot Pacage Name
+global.author = '☬Dulanga༒Thipul࿐' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -72,11 +72,11 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./DragonMedia/image/red-_-dragon-kumuthu.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.thumb = fs.readFileSync('.https://ov12-engine.flamingtext.com/netfu/tmp28007/coollogo_com-30372350.png')
+global.flaming = 'https://ov12-engine.flamingtext.com/netfu/tmp28007/coollogo_com-30372350.png'
+global.fluming = 'https://ov12-engine.flamingtext.com/netfu/tmp28007/coollogo_com-30372350.png'
+global.flarun = 'https://ov12-engine.flamingtext.com/netfu/tmp28007/coollogo_com-30372350.png'
+global.flasmurf = 'https://ov12-engine.flamingtext.com/netfu/tmp28007/coollogo_com-30372350.png'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
